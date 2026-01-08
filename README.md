@@ -2,7 +2,7 @@
 
 A simple **full-stack Notes application** built using **Next.js (App Router)**, **TypeScript**, **MongoDB**, and **Tailwind CSS**.  
 This project demonstrates complete **CRUD operations** and follows modern Next.js best practices.
-
+### Live Link: https://next-ts-note-app.vercel.app
 ---
 
 ## 🚀 Features
